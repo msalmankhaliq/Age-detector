@@ -13,7 +13,7 @@ The example code is in Python ([version 3.6](https://www.python.org/download/rel
 
 ### Description
 
-A computer vision system that can Automatically predicting age in static image files and real-time video streams with reasonably high accuracy.
+A computer vision system that can Automatically predicting age in static image files and real-time video streams with reasonably high accuracy. Predicted age would be a classification of age in a form age buckets e.g (15-20) for a teenager.
 
 ### What is age detection?
 
