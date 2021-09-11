@@ -56,9 +56,7 @@ We are using a pre-trained age detector model implemented and trained by Levi an
 For more information, [see](https://talhassner.github.io/home/publication/2015_CVPR/)
 
 ### Examples / outputs
-![age detection example 1](https://github.com/msalmankhaliq/Age-detector/blob/master/output%202.PNG)
 
-Above image is mine. The model is predicting my age correctly in the bucket of 19-24 as I am 21.
 
 ![age detection example 2](https://github.com/msalmankhaliq/Age-detector/blob/master/output.PNG)
 
